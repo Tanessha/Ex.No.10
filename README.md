@@ -1,6 +1,6 @@
 # Ex. No. 10 – Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-**Date:**
+**Date:11/11/2025** 
 
 **Register No:** 212223040225
 
